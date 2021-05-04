@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\bin\Debug\netcoreapp3.1\Online Car Shopping.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Online-Car-Shopping\Online Car Shopping\obj\Debug\netcoreapp3.1\Online Car Shopping.genruntimeconfig.cache
